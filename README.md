@@ -25,6 +25,26 @@ Asssim como o primeiro tópico, foi adotado o padrão de conventional commits, p
 - NET8
 - C#12
 
+## Instalação/Execução dos testes:
+
+1 - Clone este repositório em sua máquina local
+
+```bash
+$ git clone git@github.com:Marcos9868/testesintelitrader.git
+```
+
+2 - Após clonar o repositório, acesse-o e verifique se tudo foi devidamente alocado
+
+3 - Para cada teste, você deve entrar na pasta dele, e dentro da pasta do teste desejado, executar o seguinte comando:
+
+```bash
+$ dotnet run
+
+ou
+
+$ dotnet run -f net<suaversaododotnet>
+```
+
 ### Contato:
 
 Deixo abaixo meu linkedin para maiores informações:
