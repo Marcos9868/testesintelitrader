@@ -8,7 +8,7 @@ class Program
 
     int minimalDistance = CalculateMinimalDistance(firstArray, secondArray);
 
-    Console.WriteLine("A distância mínima entre as duas matrizes é: " + minimalDistance);
+    Console.WriteLine("The minimal distance between two arrays is: " + minimalDistance);
   }
 
   static int CalculateMinimalDistance(int[] array1, int[] array2)
